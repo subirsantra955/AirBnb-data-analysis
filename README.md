@@ -1,5 +1,5 @@
 # AirBnb-data-analysis
-The following data analysis was made through python and suggest data driven strategy to maximize revenue.
+The following data analysis was made through python and suggests data driven strategy to maximize revenue.
 The given dataset is of AirBnb and we have to analyse and explore this dataset to discover important facrtors which affects the customer booking. The above dataset has 48895 rows and 16 coulumns.The duplicate value count is Zero rows and Zero columns. There are 4 columns in dataset which have missing values and those columns are last_review, reviews_per_month, host_name and name.
 id--->Airbnb's unique identifier for the listing,
 
